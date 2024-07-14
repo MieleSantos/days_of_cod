@@ -30,3 +30,15 @@ task format
 - Imprimir o corpo da resposta através de um print.
 
 ![docs/image/api_get.png](docs/image/api_get.png)
+
+
+## Python 2/7: Fazer a tradução de alguns atributos da API
+
+Sua tarefa hoje será fazer a tradução de alguns atributos da API, como: name e affiliation.
+```
+"name": "Appa's mother",
+"affiliation": "Air Nomads"
+```
+![docs/image/api_traducao.png](docs/image/api_traducao.png)
+
+
